@@ -17,8 +17,8 @@ Feature: Search Engine scenarios
     Then I wait for element with xpath "//*[@id='res']" to be present
     And I should see page title contains "- Google Search"
 <<<<<<< HEAD
-    Then element with xpath "//*[@id='res']" should contain text "Cucumber"
+    Then element with xpath "//*[@id='res']" should contain text-- "Cucumber"
 =======
-    Then element with xpath "//*[@id='res']" should contain text "Cucumber"
+    Then element with xpath "//*[@id='res']" should contain text-- "Cucumber"
 
 >>>>>>> 78a00ee4255750779415e7aa814dc924b208b0e4
