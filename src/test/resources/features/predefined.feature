@@ -1,10 +1,7 @@
 #Search Engine exercise
 #ASK0323-7
-<<<<<<< HEAD
 #Author Valeriia Delphonse
-Feature: Search Engine scenario
-=======
-#Author: Anna Verkovskaya
+Feature: Search Engine scenarioststu
 
 @predefined
 Feature: Search Engine scenarios
